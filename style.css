@@ -1,0 +1,13 @@
+*{
+margin:1px;
+    justify-content: center;
+    align-items: center;
+}
+.lowerButtons.middleButtons.topButtons.middleTopButtons.bottomButtons{
+display: flex;
+flex-direction: row;
+
+}
+main{
+justify-content: center;
+}
